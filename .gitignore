@@ -1,0 +1,86 @@
+# ---------------------------------------------------------------
+# Unity generated folders
+# ---------------------------------------------------------------
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Unity scene recovery backups
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
+
+# ---------------------------------------------------------------
+# IDE / editor files
+# ---------------------------------------------------------------
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+mono_crash.*
+
+# ---------------------------------------------------------------
+# Builds / exports
+# ---------------------------------------------------------------
+*.apk
+*.aab
+*.unitypackage
+*.zip
+crashlytics-build.properties
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Tool-generated cache outside Assets/
+/GeneratedAssets/
+
+# ---------------------------------------------------------------
+# Third-party assets (see README > Third-party assets)
+# These can't be redistributed, so they stay out of the repo.
+# ---------------------------------------------------------------
+
+# Whole asset packs: importing them restores their own .meta files
+/Assets/SeyeonjeongPavilion/
+/Assets/SeyeonjeongPavilion.meta
+/Assets/Submission/
+/Assets/Submission.meta
+
+# Single downloaded files. Their .meta files ARE committed so the
+# scene keeps its references when the original files are dropped back in.
+/Assets/Sounds/*.mp3
+/Assets/Materials/uploads_files_4742161_rake.fbx
+/Assets/Materials/0016-beach-sand-texture-seamless.jpg
+
+# Unused / unknown origin, not needed to run the project
+/Assets/Materials/sand-surface-texture-beige-background-zen-peace-concept.jpg
+/Assets/Materials/sand-surface-texture-beige-background-zen-peace-concept.jpg.meta
+/Assets/Prefabs/rake_cat.fbx
+/Assets/Prefabs/rake_cat.fbx.meta
+
+# ---------------------------------------------------------------
+# OS files
+# ---------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
